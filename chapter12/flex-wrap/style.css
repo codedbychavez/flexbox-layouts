@@ -1,0 +1,17 @@
+.flex-container {
+  background-color: lightgray;
+  display: flex;
+  width: 120px;
+  height: 300px;
+  flex-wrap: wrap;
+  min-height: 0;
+}
+
+.box {
+  background-color: teal;
+  /* width: auto;
+  height: auto; */
+  margin: 10px;
+  min-height: 0;
+  padding: 10px;
+}
