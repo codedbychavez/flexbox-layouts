@@ -1,2 +1,3 @@
 # flexbox-layouts
-A collection of flexbox layouts by me.
+
+A collection of flex-box layouts made with <333
